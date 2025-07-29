@@ -1,0 +1,5 @@
+print("hello world")
+print(69)
+print (True)
+print ("hello" , True , 68 , "\n")
+print("nice")
